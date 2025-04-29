@@ -1,0 +1,60 @@
+.header{
+  height: fit-content;
+  z-index: 9;
+}
+
+.header_wrapper ul{
+list-style: none;
+}
+
+.logo{
+    height: auto;
+    max-height: 28vh;
+    max-width: 100%;
+    width: auto;
+    margin: 2rem auto;
+    align-self: center;
+}
+
+.mobile_banner_logo{
+  position: relative;
+  margin-top: 3vh;
+  max-width: 97%;
+  width: auto;
+  z-index: 2;
+}
+.mobile_banner{
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 1;
+  height: 17vh;
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 5rem;
+}
+.mobile_photo_banner{
+  height: 20vh;
+}
+.active {
+  transition: opacity 0.5s ease-in-out;
+  opacity: 1;
+}
+.logo_div{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+
+
+
+
+@media (min-width: 749px) { 
+
+.mobile_banner_logo{
+  margin-top: 1vh;
+}
+}
