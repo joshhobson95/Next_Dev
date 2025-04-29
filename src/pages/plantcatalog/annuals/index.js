@@ -66,10 +66,24 @@ function Annuals() {
 
         <div className={styles.plant_examples}>
 
-        <div className={styles.shrub_catalog_sub_section}>
-            <h2 className={styles.shrub_catalog_title}>Bedding Annuals</h2>
+        <div className={styles.annual_catalog_sub_section}>
+            <h2 className={styles.annual_catalog_title}>Bedding Annuals</h2>
             <div className={styles.catalog_cards}>
               <PlantSlider plants={annualdata.bedding} />
+            </div>
+          </div>
+
+        <div className={styles.annual_catalog_sub_section}>
+            <h2 className={styles.annual_catalog_title}>Drought Tolerant Annuals</h2>
+            <div className={styles.catalog_cards}>
+              <PlantSlider plants={annualdata.droughttolerant} />
+            </div>
+          </div>
+
+        <div className={styles.annual_catalog_sub_section}>
+            <h2 className={styles.annual_catalog_title}>Shade Loving Annuals</h2>
+            <div className={styles.catalog_cards}>
+              <PlantSlider plants={annualdata.shadetolerant} />
             </div>
           </div>
         
