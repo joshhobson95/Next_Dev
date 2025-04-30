@@ -83,7 +83,7 @@ function Annuals() {
         <div className={styles.annual_catalog_sub_section}>
             <h2 className={styles.annual_catalog_title}>Shade Loving Annuals</h2>
             <div className={styles.catalog_cards}>
-              <PlantSlider plants={annualdata.shadetolerant} />
+              <PlantSlider plants={annualdata.shadeloving} />
             </div>
           </div>
         

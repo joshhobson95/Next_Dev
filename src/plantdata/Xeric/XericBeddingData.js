@@ -259,20 +259,6 @@ const xericbedding =
             native: false
           },
      
-        {
-            id: 19,
-            name: "Columbine",
-            scientificName: "Aquilegia spp.",
-            image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/columbine-7246650_1920.jpg",
-            description: "Columbine is a delicate, shade-loving perennial that adds charm to New Mexico gardens. Known for its unique, spurred flowers in shades of red, yellow, purple, and blue, Columbine blooms in spring to early summer, attracting hummingbirds and pollinators. It thrives in well-draining soil and partial to full shade, making it perfect for woodland gardens or shaded borders. While it prefers moderate moisture, Columbine is drought-tolerant once established and adds a beautiful, textured touch to gardens with its graceful, fern-like foliage.",
-            sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
-            sunRequirement: "Full Sun",
-            waterIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Low-water.png",
-            waterRequirement: "Low Water",
-            hardinessZones: "3-8",
-            matureSize: `24" x 12"`,
-            native: false
-          },
           {
             id: 20,
             name: "Coreopsis",

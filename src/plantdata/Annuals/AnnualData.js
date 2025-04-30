@@ -201,21 +201,20 @@ const annualdata = {
             native: false
           },
     
-            {
-                id: 2,
-                name: "Portulaca",
-                scientificName: "Portulaca grandiflora",
-                image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/portulaca-2606950_1920.jpg",
-                description: "Portulaca, or moss rose, is a heat-loving, drought-tolerant annual that thrives in New Mexico’s dry climate. With vibrant, rose-like blooms in shades of pink, red, orange, and yellow, it adds color to gardens from summer to fall. This low-growing succulent prefers full sun and well-draining soil, making it perfect for rock gardens, borders, or containers. Requiring little water, Portulaca is an excellent choice for xeriscaping and pollinator-friendly landscapes.",
-                sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
-                sunRequirement: "Full Sun",
-                waterIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Low-water.png",
-                waterRequirement: "Low Water",
-                hardinessZones: "2-11",
-                matureSize: `8" x 10"`,
-                native: false
-              },
- 
+          {
+            id: 2,
+            name: "Portulaca",
+            scientificName: "Portulaca grandiflora",
+            image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/portulaca-2606950_1920.jpg",
+            description: "Portulaca, or moss rose, is a heat-loving, drought-tolerant annual that thrives in New Mexico’s dry climate. With vibrant, rose-like blooms in shades of pink, red, orange, and yellow, it adds color to gardens from summer to fall. This low-growing succulent prefers full sun and well-draining soil, making it perfect for rock gardens, borders, or containers. Requiring little water, Portulaca is an excellent choice for xeriscaping and pollinator-friendly landscapes.",
+            sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
+            sunRequirement: "Full Sun",
+            waterIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Low-water.png",
+            waterRequirement: "Low Water",
+            hardinessZones: "10-11",
+            matureSize: `6" x 12"`,
+            native: false
+          },
               {
                 id: 3,
                 name: "Sunflower",
@@ -232,7 +231,7 @@ const annualdata = {
         
     ],
 
-    shadetolerant: [
+    shadeloving: [
         {
             id: 2,
             name: "Alyssium",
@@ -315,6 +314,19 @@ const annualdata = {
             waterRequirement: "Medium Water",
             hardinessZones: '3-9',
             matureSize: `8" x 8"`,
+            },
+          {
+            id: 3,
+            name: "Pansy",
+            scientificName: "Viola tricolor var. hortensis",
+            image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/viola.PNG",
+            description: "Pansies are vibrant, cool-season annuals known for their large, colorful flowers that bloom in a wide range of shades, from bright yellows and purples to reds and whites. Perfect for Albuquerque’s milder seasons, pansies thrive in cool, shaded spots, making them an ideal choice for early spring or fall gardens. These low-maintenance flowers are great for adding color to garden beds, borders, containers, or hanging baskets. Pansies are also known for their ability to tolerate light frost, providing long-lasting blooms.",
+            sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Cloudy.png",
+            sunRequirement: "Full Shade",
+            waterIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Medium-water.png",
+            waterRequirement: "Medium Water",
+            hardinessZones: '6-9',
+            matureSize: `10" x 10"`,
             },
     ]
 }
