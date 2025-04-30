@@ -136,19 +136,7 @@ const xericshrubs =
         hardinessZones: "5-9",
         matureSize: "6' x 6'",
       },
-      {
-        id: 10,
-        name: "Autumn Sage",
-        scientificName: "Salvia greggii",
-        image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Shrubs/flower/autumn-sage.jpg",
-        description: "Autumn Sage is a hardy, drought-tolerant perennial perfect for New Mexico gardens. Blooming from spring to fall, it produces vibrant red, pink, or purple flowers that attract hummingbirds and pollinators. Thriving in full sun and well-drained soil, it requires minimal water once established. Its aromatic foliage and compact growth make it ideal for borders, xeriscapes, or wildlife gardens, adding long-lasting color to the landscape.",
-        sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
-        sunRequirement: "Full Sun",
-        waterIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Low-water.png",
-        waterRequirement: "Low Water",
-        hardinessZones: "6-9",
-        matureSize: "2' x 3'",
-      },
+    
       {
         id: 39,
         name: "Western Sand Cherry",

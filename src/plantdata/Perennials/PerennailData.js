@@ -5,7 +5,7 @@ const perennialdata = {
       name: "Allium",
       scientificName: "Allium spp.",
       image:
-        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/allium-8108318_1920.jpg",
       description:
         "Allium adds bold texture and visual interest to New Mexico gardens with its globe-shaped blooms and upright stems. These hardy ornamentals thrive in dry conditions and bloom in late spring, attracting bees and butterflies. Low-maintenance and drought-tolerant, alliums are perfect for borders, xeriscapes, and pollinator-friendly spaces. They also pair well with grasses and other perennials that like sun and space to grow.",
       sunIcon:
@@ -17,11 +17,11 @@ const perennialdata = {
       matureSize: `18" x 12"`,
     },
     {
-      id: 1,
+      id: 2,
       name: "Peony",
       scientificName: "Paeonia spp",
       image:
-        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/peony.jpg",
       description:
         "Peony offers lush, showy blooms in late spring that bring classic beauty and fragrance to New Mexico gardens. While not native to arid climates, peonies can thrive with well-drained soil, regular watering, and some afternoon shade. Their large, layered flowers attract pollinators and make stunning cut arrangements. Once established, they’re long-lived perennials that return reliably each year.",
         sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
@@ -34,11 +34,11 @@ const perennialdata = {
    
 
     {
-      id: 1,
+      id: 3,
       name: "Black Eyed Susan",
       scientificName: "Rudbeckia hirta",
       image:
-        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/perennials/Rudbeckia.jpg",
       description:
         "Black-Eyed Susan is a cheerful, resilient perennial that brings bright yellow, daisy-like flowers to New Mexico gardens from summer into fall. Its tough nature makes it well-suited to hot, dry conditions, and it readily attracts bees, butterflies, and other pollinators. With minimal care, it adds bold color to borders, wildflower plantings, and xeriscapes, often naturalizing over time.",
         sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
@@ -49,11 +49,11 @@ const perennialdata = {
       matureSize: `24" x 18"`,
     },
     {
-      id: 1,
+      id: 4,
       name: "Phlox",
       scientificName: "Phlox paniculata",
       image:
-        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/phlox-5091730_1920.jpg",
       description:
         "Phlox offers clusters of fragrant, star-shaped flowers that bloom from spring through summer, bringing soft color and pollinators to New Mexico gardens. With good air circulation and moderate watering, phlox can thrive in Albuquerque’s dry climate. It works well in cottage gardens, borders, and mixed beds, providing a lush look when grouped in masses.",
       sunIcon:
@@ -65,7 +65,7 @@ const perennialdata = {
       matureSize: `24" x 18"`,
     },
     {
-        id: 10,
+        id: 5,
         name: "Creeping Phlox",
         scientificName: "Phlox subulata",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/creeping-phlox-in-the-ozarks-4123341_1920.jpg",
@@ -81,11 +81,11 @@ const perennialdata = {
     
 
     {
-      id: 1,
+      id: 6,
       name: "Catmint",
       scientificName: "Nepeta spp.",
       image:
-        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/perennials/catmint.jpg",
       description:
         "Catmint is a hardy, drought-tolerant perennial that thrives in New Mexico’s dry climate, producing soft gray-green foliage and spikes of lavender-blue flowers from spring through fall. It attracts pollinators like bees and butterflies, and its aromatic leaves deter deer and rabbits. Low-maintenance and long-blooming, catmint is ideal for borders, pathways, and xeriscapes.",
         sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
@@ -111,7 +111,7 @@ const perennialdata = {
       },
     
       {
-        id: 3,
+        id: 8,
         name: "Thrift",
         scientificName: "Armeria maritima",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/thrift.jpg",
@@ -126,11 +126,11 @@ const perennialdata = {
       },
   
     {
-      id: 1,
+      id: 9,
       name: "Bee Balm",
       scientificName: "Monarda spp.",
       image:
-        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/perennials/bee-balm-1043110_1920.jpg",
       description:
         "Bee Balm, also known as Monarda, is a fragrant perennial that thrives in New Mexico gardens, attracting bees, butterflies, and hummingbirds. Its showy, tubular flowers bloom in vibrant reds, pinks, and purples, adding color and texture throughout summer. Bee Balm prefers moist, well-drained soil and some afternoon shade, making it a great choice for woodland edges, pollinator gardens, or containers.",
       sunIcon:
@@ -142,11 +142,11 @@ const perennialdata = {
       matureSize: `30" x 20"`,
     },
     {
-      id: 1,
+      id: 10,
       name: "Coneflowers",
       scientificName: "Echinacea purpurea",
       image:
-        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/perennials/coneflower.jpg",
       description:
         "Coneflower, or Echinacea, is a hardy perennial known for its daisy-like flowers and prominent central cones. Thriving in New Mexico’s hot, dry climate, coneflowers are easy to grow and attract pollinators like bees and butterflies. Their vibrant purple, pink, or white blooms bloom from summer to fall, and once established, they require minimal care, making them perfect for xeriscapes, wildflower gardens, and borders.",
         sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
@@ -157,11 +157,11 @@ const perennialdata = {
       matureSize: `30" x 20"`,
     },
     {
-      id: 1,
+      id: 11,
       name: "Red Valerian",
       scientificName: "Centranthus ruber",
       image:
-        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/perennials/red_valerian.jpg",
       description:
         "Red Valerian, or Centranthus ruber, is a vibrant, drought-tolerant perennial that thrives in New Mexico’s dry, sunny conditions. Its clusters of bright red, pink, or white flowers bloom from late spring to summer, attracting pollinators like bees and butterflies. Low-maintenance and resilient, red valerian is perfect for xeriscapes, rock gardens, and along ",
         sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
@@ -176,7 +176,7 @@ const perennialdata = {
 
   droughttolerant: [
     {
-        id: 36,
+        id: 12,
         name: "Golden Yarrow",
         scientificName: "Eriophyllum confertiflorum",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/shrubs/yarrow.jpg",
@@ -190,7 +190,7 @@ const perennialdata = {
         native: false
       },
       {
-        id: 4,
+        id: 13,
         name: "Speedwell",
         scientificName: "Veronica spp.",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/speedwel.jpg",
@@ -205,7 +205,7 @@ const perennialdata = {
       },
 
       {
-        id: 8,
+        id: 14,
         name: "Rockcress",
         scientificName: "Arabis spp.",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/golden-rock-cress-7490_1920.jpg",
@@ -219,7 +219,7 @@ const perennialdata = {
         native: false
       },
     {
-        id: 9,
+        id: 15,
         name: "Snow in Summer",
         scientificName: "Cerastium tomentosum",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/snow-in-summer.jpg",
@@ -233,11 +233,11 @@ const perennialdata = {
         native: false
       },
     {
-      id: 1,
+      id: 16,
       name: "Meadow Sage",
       scientificName: "Salvia pratensis",
       image:
-        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/perennials/meadow_sage.jpg",
       description:
         "Meadow Sage, or Salvia pratensis, is a hardy perennial known for its spikes of vibrant purple, blue, or pink flowers that bloom in late spring to early summer. This drought-tolerant plant thrives in New Mexico’s sunny, dry climate, attracting pollinators like bees and butterflies. With minimal care, meadow sage adds color and texture to garden beds, borders, and xeriscapes.",
         sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
@@ -248,7 +248,7 @@ const perennialdata = {
       matureSize: `30" x 18"`,
     },
     {
-        id: 12,
+        id: 17,
         name: "Desert Zinnia",
         scientificName: "Zinnia acerosa",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/DesertZinnia_(50619381807).jpg",
@@ -263,7 +263,7 @@ const perennialdata = {
       },
 
     {
-        id: 13,
+        id: 18,
         name: "Oriental Poppy",
         scientificName: "Papaver orientale",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/oriental-poppy.jpg",
@@ -277,7 +277,7 @@ const perennialdata = {
         native: false
       },
       {
-        id: 5,
+        id: 19,
         name: "Mexican Hat",
         scientificName: "Ratibida columnifera",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/flower-1378734_1920.jpg",
@@ -291,7 +291,7 @@ const perennialdata = {
         native: false
       },
     {
-        id: 14,
+        id: 20,
         name: "Day Lillies",
         scientificName: "Hemerocallis spp.",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/daylily-5286921_1920.jpg",
@@ -305,7 +305,7 @@ const perennialdata = {
         native: false
       },
     {
-        id: 15,
+        id: 21,
         name: "Hardy African Daisy",
         scientificName: "Arctotis spp.",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/hardy-african-daisy.jpg",
@@ -319,7 +319,7 @@ const perennialdata = {
         native: false
       },
     {
-        id: 16,
+        id: 22,
         name: "Firewheel",
         scientificName: "Gaillardia pulchella",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/indian-blanket-9063340_1920.jpg",
@@ -332,25 +332,8 @@ const perennialdata = {
         matureSize: `18" x 8"`,
         native: false
       },
-      {
-        id: 1,
-        name: "Blanket Flower",
-        scientificName: "Gaillardia spp.",
-        image:
-          "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
-        description:
-          "Gaillardia, also known as blanket flower, is a tough, sun-loving perennial that thrives in New Mexico’s hot, dry conditions. Its daisy-like blooms in fiery reds, oranges, and yellows add vibrant color from late spring through fall. Extremely heat- and drought-tolerant, Gaillardia is perfect for pollinator gardens, borders, and xeriscapes, and requires minimal care once established.",
-          sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
-          sunRequirement: "Full Sun",
-        waterIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Low-water.png",
-        waterRequirement: "Low Water",
-        hardinessZones: "3-10",
-        matureSize: `18" x 18"`,
-      },
-
-
     {
-        id: 18,
+        id: 23,
         name: "Chrysanthemum",
         scientificName: "Chrysanthemum spp.",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/chrysanthemums-3780098_1920.jpg",
@@ -365,7 +348,7 @@ const perennialdata = {
       },
 
     {
-        id: 20,
+        id: 24,
         name: "Coreopsis",
         scientificName: "Coreopsis spp.",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/coreopsis-2665188_1920.jpg",
@@ -379,7 +362,7 @@ const perennialdata = {
         native: false
       },
     {
-        id: 1,
+        id: 25,
         name: "Mexican Evening Primrose",
         scientificName: "Oenothera speciosa",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/mexican-evening-primrose.jpg",
@@ -392,14 +375,27 @@ const perennialdata = {
         matureSize: `12" x 2'`,
         native: false
       },
+      {
+        id: 26,
+        name: "Autumn Sage",
+        scientificName: "Salvia greggii",
+        image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Shrubs/flower/autumn-sage.jpg",
+        description: "Autumn Sage is a hardy, drought-tolerant perennial perfect for New Mexico gardens. Blooming from spring to fall, it produces vibrant red, pink, or purple flowers that attract hummingbirds and pollinators. Thriving in full sun and well-drained soil, it requires minimal water once established. Its aromatic foliage and compact growth make it ideal for borders, xeriscapes, or wildlife gardens, adding long-lasting color to the landscape.",
+        sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/FullSun.png",
+        sunRequirement: "Full Sun",
+        waterIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Low-water.png",
+        waterRequirement: "Low Water",
+        hardinessZones: "6-9",
+        matureSize: "2' x 3'",
+      },
   ],
   shadeloving: [
     {
-      id: 1,
+      id: 27,
       name: "Hostas",
       scientificName: "Hosota spp.",
       image:
-        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/perennials/plantain-lily-2370852_1920.jpg",
       description:
         "Hostas are shade-loving perennials known for their lush, heart-shaped foliage and delicate flowers that bloom in summer. Perfect for New Mexico gardens with dappled or full shade, hostas thrive in cooler, more protected areas of the garden. With minimal care, they provide year-round texture and color, and their flowers attract hummingbirds and bees. Ideal for woodland gardens, borders, or containers.",
         sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Cloudy.png",
@@ -410,11 +406,11 @@ const perennialdata = {
       matureSize: `30" x 40"`,
     },
     {
-      id: 1,
+      id: 28,
       name: "Hydrangeas",
       scientificName: "Hydrangea spp.",
       image:
-        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+        "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/perennials/hydrangea-2749614_1920.jpg",
       description:
         "Hydrangeas are beloved for their large, showy blooms that come in a range of colors, from pinks and blues to whites and purples. These moisture-loving perennials thrive in New Mexico’s climate when provided with some afternoon shade and regular watering. Hydrangeas add elegance and charm to garden beds, borders, and shaded areas, and their flowers are a favorite for cut arrangements.",
         sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/PartSun.png",
@@ -425,7 +421,7 @@ const perennialdata = {
       matureSize: `60" x 60"`,
     },
     {
-        id: 19,
+        id: 29,
         name: "Columbine",
         scientificName: "Aquilegia spp.",
         image: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/Xeric/bedding/columbine-7246650_1920.jpg",
@@ -440,11 +436,11 @@ const perennialdata = {
         native: false
       },
       {
-        id: 1,
+        id: 30,
         name: "Coral Bells",
         scientificName: "Heuchera spp.",
         image:
-          "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+          "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/perennials/coral_bells.jpg",
         description:
           "Coral Bells, or Heuchera, bring striking foliage and delicate flower spikes to New Mexico gardens, offering year-round visual interest. Their leaves come in a variety of colors—from deep burgundy to lime green—and their small, bell-shaped blooms attract hummingbirds in late spring to early summer. With some protection from harsh afternoon sun, Coral Bells do well in dry shade areas and make excellent additions to borders, containers, or under trees.",
         sunIcon:
@@ -456,11 +452,11 @@ const perennialdata = {
         matureSize: `18" x 24"`,
       },
       {
-        id: 1,
+        id: 31,
         name: "Bleeding Heart",
         scientificName: "Dicentra spp.",
         image:
-          "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+          "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/perennials/bleeding-heart-4183263_1280.jpg",
         description:
           "Bleeding Heart is a captivating perennial known for its unique, heart-shaped flowers that bloom in shades of pink or white. Perfect for shady, moist spots in your Albuquerque garden, this plant thrives with minimal care and adds a touch of elegance to any landscape. Bleeding Heart grows best in cool, shaded areas, offering dramatic visual appeal with its arching stems and fern-like foliage. It’s ideal for borders, woodland gardens, or shady corners, and its delicate blooms attract hummingbirds and pollinators.",
           sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Cloudy.png",
@@ -471,11 +467,11 @@ const perennialdata = {
         matureSize: `24" x 18"`,
       },
       {
-        id: 1,
+        id: 32,
         name: "Lamium",
         scientificName: "Lamium maculatum",
         image:
-          "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
+          "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/perennials/lamium.jpg",
         description:
           "Lamium, also known as spotted dead-nettle, is a versatile and low-growing perennial that thrives in shaded areas. Its attractive variegated foliage and small flowers in shades of purple, pink, or white make it an excellent ground cover for shaded spots in your garden. Lamium is perfect for adding texture and color to the front of garden beds, rock gardens, or as a filler between taller plants. It’s an easy-to-care-for plant that flourishes in well-drained, moist soil and is great for attracting pollinators.",
           sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Cloudy.png",
@@ -485,21 +481,7 @@ const perennialdata = {
         hardinessZones: "4-9",
         matureSize: `10" x 16"`,
       },
-      {
-        id: 1,
-        name: "Hakone Grass",
-        scientificName: "Hakonechloa macra",
-        image:
-          "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/TypesofProducts/geranium.jpg",
-        description:
-          "Hakone Grass is a graceful ornamental grass that thrives in partial to full shade, making it an excellent choice for shaded areas in New Mexico gardens. Known for its arching, bamboo-like foliage that turns golden in the fall, this plant adds texture and movement to garden beds or containers. Hakone Grass is perfect for adding a soft, flowing look to shaded borders, rock gardens, or woodland settings. It thrives in moist, well-drained soil and is an excellent choice for low-maintenance landscaping.",
-          sunIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Cloudy.png",
-          sunRequirement: "Full Shade",
-        waterIcon: "https://jericho-content.nyc3.cdn.digitaloceanspaces.com/VARIOUS/SEO_photos/plant_card_icons/Medium-water.png",
-              waterRequirement: "Medium Water",
-        hardinessZones: "5-9",
-        matureSize: `16" x 20"`,
-      },
+
   ],
 };
 
